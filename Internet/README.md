@@ -250,7 +250,7 @@ To get the most out of this course, you should have:
 | [Cloudflare Learning Center](https://cloudflare.com/learning) | Excellent explanations |
 | [Mozilla MDN Web Docs](https://developer.mozilla.org) | Web standards reference |
 | [IETF RFCs](https://www.rfc-editor.org/) | Official protocol specifications |
-| [Cisco Networking Academy](https://cisco.com/networking-academy) | Professional training |
+| [Cisco Networking Academy](https://www.netacad.com/) | Professional training |
 
 ---
 
