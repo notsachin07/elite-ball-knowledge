@@ -607,7 +607,7 @@ dig google.com
 
 Now that you understand how the Internet works at a high level, let's dive into:
 
-**[➡️ 02 - IP Addresses](./IP-Address/understanding-ip-address-and-network-access.md)**
+**[➡️ 02 - IP Addresses](./02-ip-addresses.md)**
 
 We'll explore:
 - IPv4 vs IPv6 in detail
